@@ -1,0 +1,11 @@
+{
+  "name": "Quick_Start",
+  "version": "1.0.0", 
+  "factorio_version": "0.17",
+  "title": "Piggy's Quick Start",
+  "author": "PiggyWhiskey",
+  "description": "A combination of accelerated start options including bots.  Goal is to skip past burner miners and jump straight into laying out a main bus.  Robots included to aid in big construction and forest clearing.  Quickbar filters preset to my prefered layout.  Put stuff in a box and shoot it if you don't want it.",
+  "homepage": "n/a",
+  "date": "05.04.2019",
+  "dependencies": ["base >= 0.17"]
+  }
