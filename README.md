@@ -1,2 +1,2 @@
-# Speedy-Trains
-Increase the Max speed of Locomotives and Wagons, and Increase the power consumption of Locomotives
+# Quick-Start
+A combination of accelerated start options including bots.  Goal is to skip past burner miners and jump straight into laying out a main bus.  Robots included to aid in big construction and forest clearing.  Quickbar filters preset to my prefered layout.  Put stuff in a box and shoot it if you don't want it. Updated from Arumba's 0.14 mod
